@@ -20,28 +20,3 @@ Given a list of numbers, write a Python program to find the sum of all the eleme
 
 Given a list, write a Python program to covert the given list to string. 
 
- 
-
- ? None 
-
-This is a special constant used to denote a null value or a void. It's important to remember, 0, any empty container (e.g. empty list) do not compute to None. 
-It is an object of its own datatype – NoneType. It is not possible to create multiple None objects and can assign it to variables 
-
-? assert 
-
-This function is used for debugging purposes. Usually used to check the correctness of code. If a statement evaluated to true, nothing happens, but when it is false, “AssertionError” is raised. One can also print a message with the error, separated by a comma. 
-
-? Strings are Immutable 
-Once a string is defined, it cannot be changed 
-
- 
-
-? map – The map () function applies a function to every member of iterable and returns the result. If there are multiple arguments, map () returns a list consisting of tuples containing the corresponding items from all iterables. 
-  
-? filter – It takes a function returning True or False and applies it to a sequence, returning a list of only those members of the sequence for which the function returned True. 
-  
-? lambda- Python provides the ability to create a simple (no statements allowed internally) anonymous inline function called lambda function. Using lambda and map you can have two for loops in one line 
-
- 
-
-Lists are just like the arrays. A single list may contain DataTypes like Integers, Strings, as well as Objects. Lists are mutable, and hence, they can be altered even after their creation. In Python, list is a type of container in Data Structures, which is used to store multiple data at the same time 
