@@ -1,0 +1,22 @@
+How to get the last element of list? 
+
+Given a list, write a Python program to check if all the values in a list are less than the given value. 
+
+Input: list = [11, 22, 33, 44, 55]  
+
+  value = 22  
+
+Output: No 
+
+Given a list, write a Python program to swap first and last element of the list. 
+
+Program to check if first and the last characters of string are equal. 
+
+Python program to print negative numbers in a list 
+
+Given a list of numbers, write a Python program to count positive and negative numbers in a List. 
+
+Given a list of numbers, write a Python program to find the sum of all the elements in the list. 
+
+Given a list, write a Python program to covert the given list to string. 
+
